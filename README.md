@@ -11,4 +11,4 @@ With a focus on the UN's Sustainable Development Goal 'Sustainable Cities and Co
 
 ## Presentation
 
-[embed]file:///Users/aaliyah_merchant/Downloads/App%20Name.pdf[/embed]
+[Click here for project presentation](https://drive.google.com/file/d/1qx9-FVTiI2Vhdce1jwlJAe6ENewu4g2X/view?usp=drive_link)
