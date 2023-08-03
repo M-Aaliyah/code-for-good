@@ -8,3 +8,7 @@ With a focus on the UN's Sustainable Development Goal 'Sustainable Cities and Co
 - User dashboard
 - Top 5 users leaderboard
 - Users XP database
+
+## Presentation
+
+[embed]file:///Users/aaliyah_merchant/Downloads/App%20Name.pdf[/embed]
